@@ -9,7 +9,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: FirebaseOptions(
-      apiKey: "YOUR_API_KEY",
+  apiKey: "AIzaSyDpSaBB31wGCtCEu9Wyhf3cuOTDBamVebc",
       projectId: "temtech-f2a77",
       messagingSenderId: "1059350868768",
       appId: "1:1059350868768:web:9a9054a995f4c5c1825d45",
